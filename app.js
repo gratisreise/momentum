@@ -1,12 +1,6 @@
-const a = 5;
-const b = 2;
-let myName = "nico";
+const age = 96;
+function calculateKrAge(ageOfForeigner) {
+    ageOfForeigner + 2;
+}
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log("hello" + " nico");
-
-myName = "nicolas";
-
-console.log("your new name is" + myName);
+const krAge = calculateKrAge(age);
